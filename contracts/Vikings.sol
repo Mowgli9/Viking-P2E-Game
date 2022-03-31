@@ -68,9 +68,9 @@ contract Vikings is ERC721URIStorage, VRFConsumerBase, Ownable {
         keyHash = _keyhash;
         fee = 0.1 * 10**18;
         priceFeed = AggregatorV3Interface(aggreggatorAddress); // setting price feed
-        CommonBoxPriceInUsd = 50 * 10**18; // initialize price of the box
-        EpicBoxPriceInUsd = 60 * 10**18; // initialize price of the box
-        LegendaryBoxPriceInUsd = 70 * 10**18; // initialize price of the box
+        CommonBoxPriceInUsd = 250 * 10**18; // initialize price of the box
+        EpicBoxPriceInUsd = 400 * 10**18; // initialize price of the box
+        LegendaryBoxPriceInUsd = 700 * 10**18; // initialize price of the box
         vikingsGold = IERC20(vikingsGoldAddress); // initialize the game Token
         VikingURI[RARITY.COMMON] = "uri"; // initialize URIs
         VikingURI[RARITY.RARE] = "uri";
