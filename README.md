@@ -1,4 +1,4 @@
-
+🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract I did it years ago to practice Solidity I will create more public repo such this one :) (21/02/2024)
 
 # Small Description :
 
