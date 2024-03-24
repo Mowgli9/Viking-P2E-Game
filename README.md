@@ -1,4 +1,4 @@
-🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract I did it years ago to practice Solidity I will create more public repo such this one :) (21/02/2024)
+🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract, It was only for me to learn how to make p2e games, ` Who the f* wrote this smart contract 😆😆😆😆 `
 
 # Small Description :
 
